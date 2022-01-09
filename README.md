@@ -24,7 +24,7 @@ DomainFollower is a code script that keeps track of domain registrations.
 - Clone or Download Repo
 - Run __pip install -r requirements.txt__ or __pip3 install -r requirements.txt__
 - Add domains or subdomains to __sources.txt__
-- Run "reporter.py" (__python domainFollower.py__) or (__python3 domainFollower.py__)
+- Run "domainFollower.py" (__python domainFollower.py__) or (__python3 domainFollower.py__)
 
 ![DomainFollower](SS/4.PNG)
 
